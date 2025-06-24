@@ -1,7 +1,8 @@
 import seaborn as sns
 from matplotlib import pyplot as plt
-print("Hello Georg!")
 
+print("Hello Georg!")
+print("Live long and prosper!")
 
 plt.plot([1,2,4,7],[4,5,6,7])
 plt.xlabel('one type of unit')
