@@ -1,0 +1,732 @@
+time,embedder,chunk-size,userprompt,total-input,response,params
+2025-06-20 15:13:59,all-MiniLM-L6-v2,1000,What are some core topics in discussions about AI?,"
+## SYSTEM ROLE
+You are a very friendly expert on AI technology, philosophy and social impact.
+Your answers must be based exclusively on the context provided from the literature.
+
+## USER QUESTION
+""What are some core topics in discussions about AI?""
+
+## CONTEXT
+Here is the relevant content from the literature:
+'''
+
+
+Content:
+PART 2
+Discourses and Myths  
+About AI
+
+
+Content:
+Introduction: Why We Need Critical Perspectives on AI  15
+elaborates on how humans and machines have to coexist in the age of AI.  
+Wolfgang Hofkirchner ( Chapter 3 ) continues the discussion about humans 
+versus machines by analysing what Digital Humanism exactly entails. He pro-
+poses dialectical models in order to overcome the human–machine dualism. 
+Jenna Ng (Chapter 4) adds to this discussion by elaborating on the rationalisa-
+tion of AI and what this means for creativity. Dan McQuillan (Chapter 5) has 
+a different take on humanism and proposes how people’s councils for AI can 
+serve solidarity and mutual aid in times of crisis.
+Part 2: Discourses and Myths About AI is comprised of five chapters. Rainer 
+Rehak (Chapter 6) stresses the importance but also limitations of metaphors 
+when talking about AI and intelligent systems. Angela Daly, S. Kate Devitt and  
+Monique Mann (Chapter 7) introduce and discuss their Good Data approach in
+
+
+Content:
+4 AI for Everyone?
+and what not. And it looks at issues about AI, power and inequalities, investi -
+gating where the risks of exclusion are and how we should deal with this. 
+The book also brings diverse and critical voices to this debate. Whereas AI 
+as a discipline has been dominated by white, male, predominantly older scien-
+tists from mathematical disciplines, this collection brings perspectives that are 
+characterised by a strong diversity in authorship and discipline. And threading 
+through all, the contributions offer a discussion of different tangents of power 
+and political economy in the field of AI and society.
+The first task is to name our terms. For a concept that has been with us for so 
+long, there is little consensus on how to define it. The history of debating AI is 
+almost as old as AI itself. There is more debate than agreement about what AI  
+is and what it is not, and the only thing generally agreed is that there is no
+
+
+Content:
+Introduction: Why We Need Critical Perspectives on AI  11
+It is clear that we need to be aware of AI ideology and acknowledge that AI 
+ethics alone, despite their value and contributions, will not save the world. The 
+other problem is about how we move from AI ethics to concrete policies. There 
+is no roadmap for what exactly should be done, no precise course of action to 
+be taken in policy development (Coeckelbergh 2020). It comes down to who 
+has the capacity to influence the actions, beliefs or behaviour of others. Or  
+who can influence what type of society we want, and what the role of techno-
+logy such as AI should be in it. Ultimately, this is a question about power and 
+who is in control to make decisions.
+We Have to Talk about AI and Power
+The problem of AI ideology and – more broadly – the question of whether 
+we need AI and if so, what type of AI we need, illustrates why we need criti -
+cal perspectives on AI. What do I mean by critical? The Frankfurt School has
+
+
+Content:
+12 AI for Everyone?
+look like (Crawford 2018). Questions about inclusion and representation are 
+inherently political questions. AI also refers to industrial infrastructures: the 
+infrastructure does not only entail the possibilities of collecting vast amounts 
+of data, but also the computational power needed to develop machine/deep 
+learning models. Very few companies have simultaneously the computational 
+power, access to data and AI expertise (human resources) at their disposal, 
+which means that the economic power of these organisations is crucial for the 
+development of AI and is highly concentrated (Dyer-Witheford, Kjøsen and 
+Steinhoff 2019). 
+The Case for a Radical Democratisation of AI
+Asking critical questions about AI with the objective to foster human eman -
+cipation requires us to investigate the political and economic power dynam -
+ics of AI. My point here is that we need to move beyond discussions of what
+
+
+Content:
+ing sure that the benefits of AI are accessible for everyone. Further in this intro-
+duction, I elaborate on this and I make the case for a radical democratisation of 
+AI, and why we need to put power at the centre for achieving this.
+The contributions in this book braid discussion of power and critique with 
+three strands: AI – Humans vs. Machines, Discourses and Myths About AI and 
+AI Power and Inequalities. 
+Part 1: AI – Humans vs. Machines – deals with the history and conceptualisa-
+tion of AI and what is at stake in its development. This section looks at different 
+perspectives about what characterises machine intelligence and how it might 
+be important to further radical humanism in the era of automation and AI. 
+Part 2: Discourses and Myths About AI – analyses how AI is framed in popu-
+lar and scholarly discussions and investigates the normative projections of what 
+AI should be and what it should do. This section poses critical questions about
+
+
+Content:
+AI for Everyone?
+Critical Perspectives
+Edited by 
+Pieter Verdegem
+
+
+Content:
+2 AI for Everyone?
+Amidst this doom and gloom, what we desperately need is a more nuanced 
+debate about AI’s risks and opportunities. This can – must – be a serious and 
+informed discussion that goes beyond hyperbole and polarisation, fuelled by 
+popular media and thus feeding into public debate. What we need is critical 
+perspectives on AI: what it is and what it is not; what type of AI we need, what 
+visions exist about this and who is behind them; and ultimately, how to think 
+and talk about AI power and inequalities.
+In one word, it is power that must be at the centre of our conversations about 
+AI and that is what this book is about. If we want to talk about critical perspec-
+tives on AI, formulating a critique on AI, how it is currently being developed 
+and discussed, and yes, if we are serious about making sure that AI will benefit 
+everyone, we need to talk about power. Power refers to the capacity to influ -
+
+
+Content:
+The Case of Artificial Intelligence
+For some years now, technical solutions utilising artificial intelligence are 
+widely seen as means to tackle many fundamental problems of mankind. From 
+fighting the climate crisis, tackling the problems of ageing societies, reducing 
+global poverty, stopping terror, detecting copyright infringements or curing 
+cancer to improving evidence-based politics, improving predictive police work, 
+local transportation, self-driving cars and even waste removal.
+Definitions
+The first step towards a meaningful discussion about AI would be to define 
+what exactly one means when talking about AI. Historically there have been 
+two major understandings of AI: strong AI or Artificial General Intelligence 
+(AGI) and weak AI or Artificial Narrow Intelligence (ANI). The goal of AGI is 
+the creation of an artificial human like intelligence, so an AI system with true 
+human-like intelligence including perception, agency, consciousness, inten -
+
+
+Content:
+discussion usually ignores those and therefore the range of AI-assigned func -
+tionality reaches from applying traditional statistics to using machine learning 
+(ML) techniques up to solely movie inspired ideas or even generally to ‘highly 
+complex information systems’ , as in the official ‘ Social Principles of Human-
+centric AI’ of Japan (Council for Social Principles of Human-centric AI 2019).
+In the following, we will concentrate on artificial neural networks to illus -
+trate the fallacies and pitfalls of questionably used language. The focus on ANN  
+in this text is in line with the current debate of AI, where AI is predominantly 
+used synonymously with machine learning using artificial neural networks 
+(Eberl 2018). Nevertheless, the problems mentioned here also apply to debates 
+concerning other forms of AI, when a similar terminology is being used.
+Key drivers for the current AI renaissance are the successes of applying arti-
+
+
+Content:
+lar and scholarly discussions and investigates the normative projections of what 
+AI should be and what it should do. This section poses critical questions about 
+how AI needs to debunk the myths surrounding it.
+Part 3: AI Power and Inequalities – advances the debate around AI by criti -
+cally examining what ‘ AI for Everyone?’ means. This is dealing with the root of 
+the problem: who will benefit from AI is ultimately down to who has the power 
+to decide. These contributions look at how AI capitalism is organised, what 
+(new) inequalities it might bring about and how we can fight back.
+Why do we need a book on AI for Everyone? and why do we need it now? 
+The 2007–2008 financial crisis, and the resulting global economic crisis, has not 
+only brought about a decade of austerity in large parts of the Western world; 
+it has also been the context in which social media and digital platforms have 
+transformed into behemoths. Tech companies are now dominating the top 10
+
+
+Content:
+1972; Dreyfus 1979; Bailey 1996; Moravec 1998; Boden 2004). Various conclu-
+sions are then reached by matching one against the other, and working out how 
+each measures up. 
+In other words, the rationalisation of AI is laid out in comparative terms, so 
+that AI becomes intelligible only as against human capacities, or against what 
+AI can or cannot do as compared to humans. The multiplicities which reflect 
+this rationalisation across philosophy, computer science, cognitive psychol -
+ogy, cybernetics, neuroscience and myriad other disciplines are myriad and 
+intricate, and far beyond the scope of this chapter to cover comprehensively. A 
+few highlights will hopefully suffice to demonstrate its contours. We might, for 
+instance, think about Vannevar Bush’s famous imagining of a memory machine 
+he named the ‘ memex’ (Bush 1945), influential to the present day as a basis 
+for the World Wide Web (Davies 2011). Notably, Bush presented the memex
+
+
+'''
+
+## GUIDELINES
+1. **Accuracy**:
+   - Only use the content in the `CONTEXT` section to answer.
+   - If an answer cannot be found, explicitly state: ""The provided context does not contain this information.""
+
+2. **Transparency**:
+   - Reference the book's name and page numbers when providing information.
+   - Do not speculate or provide opinions.
+
+3. **Clarity**:
+   - Use simple, professional, and concise language.
+   - Format your response in Markdown for readability.
+
+4. **Orthography**:
+   - Use British spelling.
+   - Do not use Oxford commas.
+
+## TASK
+1. Answer the user's question **directly** if possible.
+2. Point the user to relevant parts of the documentation.
+3. Provide the response in the following format:
+
+## RESPONSE FORMAT
+'''
+# [Brief Title of the Answer]
+[Answer in simple, clear text.]
+
+**Source**:
+• [Book Title], Page(s): [...]
+'''
+","'''
+# Core Topics in AI Discussions
+
+Some core topics in discussions about AI include the coexistence of humans and machines, the power dynamics associated with AI, and the ethical implications of its development. There is a strong focus on the need for critical perspectives to understand what type of AI we need and who benefits from it. Issues such as inclusion, representation, and economic power concentration are also central to these discussions. Furthermore, there is an emphasis on defining AI and addressing myths surrounding it.
+
+**Source**:
+• *AI for Everyone? Critical Perspectives*, Pages: 11-15
+'''","{'model': 'gpt-4o', 'temperature': 0.8, 'max_tokens': 3500, 'top_p': 0.9, 'frequency_penalty': 0.6, 'presence_penalty': 0.4}"
+2025-06-20 16:44:25,all-MiniLM-L6-v2,1500,What are some common myths in discussions about AI?,"
+## SYSTEM ROLE
+You are a very friendly expert on AI technology, philosophy and social impact.
+Your answers must be based exclusively on the context provided from the literature.
+
+## USER QUESTION
+""What are some common myths in discussions about AI?""
+
+## CONTEXT
+Here is the relevant content from the literature:
+'''
+
+
+Content:
+lead to inequalities and unfairness. 
+This book contributes to this debate by critically reflecting on how we  
+should think about AI and the relationship between humans and machines. 
+It analyses the discourses and myths that exist around AI; what it will enable
+
+
+Content:
+Introduction: Why We Need Critical Perspectives on AI  15
+elaborates on how humans and machines have to coexist in the age of AI.  
+Wolfgang Hofkirchner ( Chapter 3 ) continues the discussion about humans 
+versus machines by analysing what Digital Humanism exactly entails. He pro-
+poses dialectical models in order to overcome the human–machine dualism. 
+Jenna Ng (Chapter 4) adds to this discussion by elaborating on the rationalisa-
+tion of AI and what this means for creativity. Dan McQuillan (Chapter 5) has 
+a different take on humanism and proposes how people’s councils for AI can 
+serve solidarity and mutual aid in times of crisis.
+Part 2: Discourses and Myths About AI is comprised of five chapters. Rainer 
+Rehak (Chapter 6) stresses the importance but also limitations of metaphors 
+when talking about AI and intelligent systems. Angela Daly, S. Kate Devitt and  
+Monique Mann (Chapter 7) introduce and discuss their Good Data approach in 
+order to overcome the limitations of AI ethics and governance. James Steinhoff 
+(Chapter 8) critically analyses the social reconfiguration of AI and discusses 
+the central questions about utility and feasibility. Benedetta Brevini (Chapter 9)  
+analyses AI policies in Europe and unpacks some of the myths around AI 
+that legitimate capitalism. Alkim Almila Akdag Salah ( Chapter 10 ) reflects 
+on how the discourses of artistic computational production have changed and  
+how myths about AI need to be uncovered in this context.
+
+
+Content:
+4 AI for Everyone?
+and what not. And it looks at issues about AI, power and inequalities, investi -
+gating where the risks of exclusion are and how we should deal with this. 
+The book also brings diverse and critical voices to this debate. Whereas AI 
+as a discipline has been dominated by white, male, predominantly older scien-
+tists from mathematical disciplines, this collection brings perspectives that are 
+characterised by a strong diversity in authorship and discipline. And threading 
+through all, the contributions offer a discussion of different tangents of power 
+and political economy in the field of AI and society.
+The first task is to name our terms. For a concept that has been with us for so 
+long, there is little consensus on how to define it. The history of debating AI is 
+almost as old as AI itself. There is more debate than agreement about what AI  
+is and what it is not, and the only thing generally agreed is that there is no 
+widely accepted definition (Russell and Norvig 2016). The first definition comes 
+from that gathering of scientists in 1955: McCarthy et al. (1955/2006) then 
+defined AI as: ‘Making a machine behave in ways that would be called intelli -
+gent if a human were so behaving’ . This only raises the challenge of how exactly  
+to define intelligence. Russell and Norvig (2016: 2) define different approaches to  
+AI to serve different goals. AI can refer to systems that: (1) think like humans;
+
+
+Content:
+current critiques about AI centre on AI ethics (Coeckelbergh 2020), which is  
+valuable and important to shape policy discussions. AI ethics, however, also 
+has serious limitations when it comes to bringing about real change and mak -
+ing sure that the benefits of AI are accessible for everyone. Further in this intro-
+duction, I elaborate on this and I make the case for a radical democratisation of 
+AI, and why we need to put power at the centre for achieving this.
+The contributions in this book braid discussion of power and critique with 
+three strands: AI – Humans vs. Machines, Discourses and Myths About AI and 
+AI Power and Inequalities. 
+Part 1: AI – Humans vs. Machines – deals with the history and conceptualisa-
+tion of AI and what is at stake in its development. This section looks at different 
+perspectives about what characterises machine intelligence and how it might 
+be important to further radical humanism in the era of automation and AI. 
+Part 2: Discourses and Myths About AI – analyses how AI is framed in popu-
+lar and scholarly discussions and investigates the normative projections of what 
+AI should be and what it should do. This section poses critical questions about 
+how AI needs to debunk the myths surrounding it.
+Part 3: AI Power and Inequalities – advances the debate around AI by criti -
+cally examining what ‘ AI for Everyone?’ means. This is dealing with the root of 
+the problem: who will benefit from AI is ultimately down to who has the power
+
+
+Content:
+154 AI for Everyone?
+Unveiling this myth of the ineluctability of AI and its urgency, it is impos -
+sible not to recall Williams’ analysis in Towards 2000 where he stated that  
+‘The sense of some new technology as inevitable or unstoppable is a product  
+of the overt and covert marketing of the relevant interests’ (Williams 1985, 
+133). In reality technological development is not predetermined, and alterna -
+tive paths to a market-led development that reinforces the current neoliberal 
+status quo are always a possibility (Brevini 2020).
+Myth #3: AI Surpassing Human Intelligence
+Like every institution that developed a strategy for AI, the EC also had to start 
+by defining AI. The Communication of the Commission clarifies that:
+Artificial intelligence (AI) refers to systems that display intelligent 
+behaviour by analysing their environment and taking actions – with 
+some degree of autonomy – to achieve specific goals. AI-based systems 
+can be purely software-based, acting in the virtual world (e.g. voice  
+assistants, image analysis, software, search engines, speech and face 
+recognition systems) or AI can be embedded in hardware devices  
+(e.g. advanced robots, autonomous cars, drones or Internet of Things 
+applications). (European Commission 2018a, 2)
+Moreover, what emerges from the EU documents is the underlying assumption 
+that artificial intelligence will outperform human capabilities. In several docu-
+
+
+Content:
+Creating the Technological Saviour 155
+subordination of human labour to computers. Of course, as I have discussed 
+above, neoliberalism has long established a privileged relationship with tech -
+nology as the ‘prime mover’ of capitalist growth (Harvey 2005).
+Conclusion 
+The AI myths discussed in these pages are very powerful tools for the con -
+struction of a discourse that make us perceive AI as the solution to the major 
+problems in our society, including the inequalities brought about by capital -
+ism and other major crises such as climate change and global health emergen-
+cies. Through these myths, AI then becomes the technological saviour, whose 
+advent is ineluctable. As such, when the artificial machine arrives – in this 
+future/present which is always inevitably imminent – it will manifest as a supe-
+rior intelligence to solve the problems that capital economies have themselves 
+created. Eventually, AI will outsmart humans to mend that damage and amelio-
+rate further risks that capitalism inevitably occasions.
+The recurrent myths that are omnipresent in the European Framework for 
+AI have two major consequences. Firstly, they structure a hegemonic dis -
+course that makes it impossible to think of alternative paths, framing resist -
+ance as futile because technological development is predestined. Accordingly, 
+they legitimise a neoliberal ideology that pushes consumerism and produc -
+tivity above all values and strips technology from the social relations that are
+
+
+Content:
+AI for Everyone?
+Critical Perspectives
+Edited by 
+Pieter Verdegem
+
+
+Content:
+Myth #1: Artificial Intelligence as a Solution for Humanity  
+and Capitalism’s Biggest Challenges 
+In its communications of 25 April 2018 and 7 December 2018, the European 
+Commission set out its vision for AI, which supports ‘ethical, secure and cutting- 
+edge AI made in Europe’ (European Commission 2018a).
+
+
+Content:
+is, we only measure how well it fits within everyday relations with a human). 
+On the other hand, Searle tries to kill the concept of intelligent machines by 
+comparing not the ‘behaviour’ of these machines to human behaviour, but their 
+‘nature’ to that of human nature. 
+Today, AI is more and more associated with words that are reserved for 
+humans: autonomy, learning and interpretation. For example, Haenlein and 
+Kaplan (2019) state that AI is commonly defined as ‘a system’s ability to inter-
+pret external data correctly, to learn from such data, and to use those learnings 
+to achieve specific goals and tasks through flexible adaptation’ . Rahwan et al. 
+(2019) called for a new science on machine behaviour as a field that ‘is con -
+cerned with the scientific study of intelligent machines (i.e. virtual or embodied
+
+
+Content:
+AI Bugs and Failures 163
+who reveals the working of AI by generating instances of occurrences between 
+the audience and the AI. 
+A Useful Framework for AI or the Ghost in the Machine?
+Some sixty years ago, a part of the computer science community embarked 
+upon an ambitious research program named ‘artificial intelligence’ . Summar-
+ily, the task at hand was to write an intelligent computer program; one that 
+could simulate human thinking, and while at it, why not, properly think and 
+even be conscious, just like a human. They had just realised that computers 
+were able to handle arithmetical and logical operations much better than an 
+ordinary human being, and a whole wide world of opportunities opened up 
+before them. But after some initial effort, the researchers saw two things: the 
+aim of implementing intelligence was an ill-posed problem, because there 
+was no satisfactory definition of intelligence. The concept of intelligence, just 
+like many defining characteristic of human beings, is normative and vague.  
+The second realisation would come a little later, as it required more failures: the  
+internal dynamics of many human endeavours were unknown, and misjudged. 
+People thought that understanding and speaking was easy, whereas playing 
+chess was difficult. Thus, chess was seen as a benchmark of intelligence. Y ears 
+later, when a computer program, Deep Blue (Hsu 2002), was able to beat the 
+world champion of chess, cognitive science had already contributed much
+
+
+'''
+
+## GUIDELINES
+1. **Accuracy**:
+   - Only use the content in the `CONTEXT` section to answer.
+   - If an answer cannot be found, explicitly state: ""The provided context does not contain this information.""
+
+2. **Transparency**:
+   - Reference the book's name and page numbers when providing information.
+   - Do not speculate or provide opinions.
+
+3. **Clarity**:
+   - Use simple, professional, and concise language.
+   - Format your response in Markdown for readability.
+
+4. **Orthography**:
+   - Use British spelling.
+   - Do not use Oxford commas.
+
+## TASK
+1. Answer the user's question **directly** if possible.
+2. Point the user to relevant parts of the documentation.
+3. Provide the response in the following format:
+
+## RESPONSE FORMAT
+'''
+# [Brief Title of the Answer]
+[Answer in simple, clear text.]
+
+**Source**:
+• [Book Title], Page(s): [...]
+'''
+","'''
+# Common Myths in Discussions About AI
+
+Several common myths about AI are discussed in the literature:
+
+1. **AI as an Inevitable Technological Saviour**: There is a myth that AI development is inevitable and unstoppable, which is used to promote a neoliberal agenda. This belief suggests that AI will solve major societal problems, including those created by capitalism (Brevini 2020).
+
+2. **AI Surpassing Human Intelligence**: Another prevalent myth is that AI will surpass human intelligence and capabilities. This assumption underlies many discussions about AI, despite lacking substantial evidence or consensus (European Commission 2018a).
+
+3. **AI as a Solution for Humanity's Challenges**: It is often suggested that AI can address humanity's biggest challenges, such as climate change and global health emergencies. However, this perception overlooks the complexities of these issues and overestimates what technology can achieve on its own (Verdegem 2020).
+
+These myths contribute to a discourse framing technological development as predestined and undermine consideration of alternative approaches.
+
+**Source**:
+• *AI for Everyone? Critical Perspectives*, Pages: 154-155
+'''","{'model': 'gpt-4o', 'temperature': 0.8, 'max_tokens': 3500, 'top_p': 0.9, 'frequency_penalty': 0.6, 'presence_penalty': 0.4}"
+2025-06-20 16:47:09,all-MiniLM-L6-v2,1500,What are beneficial applications of artificial intelligence?,"
+## SYSTEM ROLE
+You are a very friendly expert on AI technology, philosophy and social impact.
+Your answers must be based exclusively on the context provided from the literature.
+
+## USER QUESTION
+""What are beneficial applications of artificial intelligence?""
+
+## CONTEXT
+Here is the relevant content from the literature:
+'''
+
+
+Content:
+of Communism. In: B.R. Bellamy and J. Diamanti (Eds.), Materialism and 
+the Critique of Energy, pp. 331–375. Chicago: MCM.
+Braverman, H. 1998. Labor and Monopoly Capital: The Degradation of Work in 
+the Twentieth Century. New Y ork: NYU Press.
+Brockman, G. 2019. Microsoft Invest in and Partners with OpenAI to Support 
+us Building Beneficial AI. 22 July. OpenAI Blog. Last accessed 5 May 2020: 
+https://openai.com/blog/microsoft
+Broussard, M. 2018. Artificial Unintelligence: How Computers Misunderstand 
+the World. Cambridge, MA: MIT Press.
+Brynjolfsson, E. and McAfee, A. 2017. The Business of Artificial Intelligence. 
+July. Harvard Business Review. Last accessed 10 May 2020: https://hbr.org 
+/cover-story/2017/07/the-business-of-artificial-intelligence
+Burgess, A. 2018. The Executive Guide to Artificial Intelligence: How to Identify 
+and Implement Applications for AI in your Organization. London: Palgrave 
+Macmillan.
+Castelvecchi, D. 2016. Can we Open the Black Box of AI? 5 October. Nature News 
+& Comment . Last accessed 15 May 2020: https://www.nature.com/news 
+/can-we-open-the-black-box-of-ai-1.20731 
+Cockshott, P . 1988. Application of Artificial Intelligence Techniques to Eco -
+nomic Planning. University of Strathclyde. Last accessed 5 May 2020: http://
+www.dcs.gla.ac.uk/~wpc/reports/plan_with_AIT.pdf
+Cockshott, P . 2017. Big Data and Supercomputers: Foundations of Cyber Com-
+munism. 26–28 September. Presented at The Ninth International Vanguard
+
+
+Content:
+is, we only measure how well it fits within everyday relations with a human). 
+On the other hand, Searle tries to kill the concept of intelligent machines by 
+comparing not the ‘behaviour’ of these machines to human behaviour, but their 
+‘nature’ to that of human nature. 
+Today, AI is more and more associated with words that are reserved for 
+humans: autonomy, learning and interpretation. For example, Haenlein and 
+Kaplan (2019) state that AI is commonly defined as ‘a system’s ability to inter-
+pret external data correctly, to learn from such data, and to use those learnings 
+to achieve specific goals and tasks through flexible adaptation’ . Rahwan et al. 
+(2019) called for a new science on machine behaviour as a field that ‘is con -
+cerned with the scientific study of intelligent machines (i.e. virtual or embodied
+
+
+Content:
+(Krotov 2017; Saarikko, Westergren and Blomquist 2017), which basically is an 
+extension of internet connectivity into physical devices and everyday objects 
+such as a refrigerator or a heater, equipped with sensors and software to collect 
+and exchange data.
+Machine learning, simply put, is ‘methods that help computers learn without 
+being explicitly programmed’ (Kaplan and Haenlein 2019, 17), and is applied 
+in order to identify underlying patterns within the big data, and as such is an 
+essential element of artificial intelligence. A more elaborated definition comes 
+from Mitchell (1997, 2) stating ‘ A computer program is said to learn from 
+experience E with respect to some class of tasks T and performance measure P  
+if its performance at tasks in T, as measured by P, improves with experience E.’   
+AI is much broader than machine learning, as it additionally comprises such 
+abilities as the perception of data (e.g., voice/image recognition, natural lan -
+guage processing, etc.) or the control and movement of objects (robotics  
+or cybernetics).
+Artificial intelligence can be classified into three types of systems: analyti -
+cal, human-inspired and humanised (Kaplan and Haenlein 2019). Analytical 
+AI contains characteristics consistent with cognitive intelligence only: gener -
+ating cognitive representation of the world and using learning based on past 
+experience to inform future decisions. Human-inspired AI contains elements
+
+
+Content:
+the varying approaches to how we define AI. 
+The Origins of AI
+It is easy to forget that AI has been with us for more than 60 years. Despite  
+the flash of excitement and anxiety that feels so recent, AI itself is not a new  
+phenomenon. The name Artificial Intelligence (AI) was coined in the mid-
+1950s at a series of academic workshops organised at Dartmouth College, New  
+Hampshire (USA). A group of scientists, led by mathematics professor John 
+McCarthy, gathered to investigate the ways in which machines could simulate 
+aspects of human intelligence: the ability to learn and make decisions. Their 
+core assumption was that human reasoning could be reconstructed using 
+mathematical techniques and, as a consequence, problem-solving could be  
+formalised into algorithms (McCarthy et al. 1955/2006).
+What is more recent is a reflexive, if not critical, and social-scientific, under-
+standing of not just AI’s capabilities, but its impacts on human life and social 
+organisation (Elliott 2019). It took decades for AI research to move from 
+what it could do for us to what it could do to us, or enable us to do to each 
+other. These first critical insights came along with observations that AI can 
+not only supercharge innovation and bring about economic prosperity but also  
+lead to inequalities and unfairness. 
+This book contributes to this debate by critically reflecting on how we  
+should think about AI and the relationship between humans and machines.
+
+
+Content:
+course, but machine learning was produced within these structures of power 
+and it is acting back on them. While the mathematics of AI may be expressed 
+as matrices, it is a human activity that is inescapably immersed in history and 
+culture. AI acts as an activation function for specific social tendencies. As an 
+idea, or ideology, AI seeks to escape association with these worldly concerns by
+
+
+Content:
+Introduction: Why We Need Critical Perspectives on AI  5
+potential to surpass human intellectual capacities. This can be seen as the attempt 
+to mechanise human-level intelligence. Computer scientists and philosophers 
+disagree on whether this is at all possible (Coeckelbergh 2020): some directly 
+reject this scenario while others think if theoretically possible, it is not likely to 
+happen (soon) in practice (Boden 2016). This is why it might be better to focus 
+on advancements in weak AI or ANI (Artificial Narrow Intelligence), as this is 
+the type of AI already impacting everyday life on a massive scale. Weak/nar -
+row AI performs specific tasks which would normally require intelligence in a 
+human being – machines aiding human thought and action. This type of AI is a 
+mathematical method for prediction (Agrawal et al. 2018). Such systems can be 
+extremely powerful but are limited in the range of tasks they can perform.
+Russell and Norvig (2016) see machine learning as a prerequisite for intel -
+ligent machines. Machine learning is a paradigm that allows programs to auto-
+matically improve their performance on a particular task by learning from vast 
+amounts of data (Alpaydin 2016). It seeks and uses statistical patterns and cor-
+relation in enormous datasets. Unlike older types of AI (e.g. expert systems, 
+that are based on rules which are inputted by humans), machine learning algo-
+rithms learn not from humans but from data. The availability of significant
+
+
+Content:
+well-being of all members of society. This means that AI development must be 
+organised in such a way that all members of society are able to reap the benefits. 
+Another aspect of this principle is the question about how to develop benefi -
+cial machines, in other words, how can we ensure that AI serves the objectives 
+of humanity. Stuart Russell (2019, 11) states: ‘machines are beneficial to the 
+extent that their actions can be expected to achieve our objectives’ . According 
+to him, this is at the centre of the problem of control in AI and his interpreta -
+tion focuses on the human–machine relationship, as part of being beneficial to 
+everyone. Developing AI that is beneficial for everyone, thus includes thinking 
+about how to create beneficial machines that serve humanity. 
+AI for everyone risks becoming yet another hype, if we let the tech giants 
+take over the debate with their slogans such as AI for social good . What they 
+are missing is a real vision of democratising technology because they fail to 
+understand what AI for everyone really means: putting the human at the centre 
+(Pasquale 2020). In one word, this is about power. If we are not talking about 
+power, we are not talking about AI for everyone . Critical perspectives require 
+us to talk about the human and society. By bringing together diverse critical 
+contributions to the debate, this book presents one thing they have in common: 
+the idea of putting society first.
+Chapter Overview
+
+
+Content:
+will be done by analysing challenges concerning algorithms and organisations, 
+challenges with respect to (un)employment, and looking at democracy and 
+freedom potentially jeopardised due to AI progress.
+Artificial Intelligence: Definition and Classification
+Artificial intelligence is a rather fuzzy concept, and quite difficult to define. At 
+least two reasons can be proposed for the difficulty in formulating a definition 
+therefore: firstly, it is not easy to find a clear definition for what intelligence in 
+general is, as it depends largely upon the context. Thus intelligence is described 
+in several different ways such as the capacity for learning, reasoning, planning, 
+understanding, critical thinking, creativity, and last but not least, problem solving.
+Secondly, artificial intelligence is a moving target: advances previously con -
+sidered to AI with time will not be considered as such as soon as we get used to 
+them. This phenomenon is known as the AI effect. As McCordick (2004, 204) 
+formulated it: ‘It’s part of the history of the field of artificial intelligence that 
+every time somebody figured out how to make a computer do something – play 
+good checkers, solve simple but relatively informal problems – there was cho -
+rus of critics to say, “that’s not thinking” . ’ Or as Rodney Brooks, MIT’s Artificial 
+Intelligence Laboratory director, explains, ‘Every time we figure out a piece of
+
+
+Content:
+Bureau of Economic Research. Retrieved from: https://www.nber.org 
+/papers/w24174
+Lee, K.-F . 2018. AI Superpowers: China, Silicon Valley and the New World Order. 
+Boston, MA: Houghton Mifflin.
+McAfee, A. and Brynjolfsson, E. 2017. Machine, Platform, Crowd: Harnessing 
+the Digital Revolution. New Y ork: WW Norton & Company.
+McCarthy, J., Minsky, M., Rochester, N. and Shannon, C. 1955/2006. A Pro -
+posal for the Dartmouth Summer Research Project on Artificial Intelli -
+gence. AI Magazine, 27(4), Winter 2006.
+Microsoft. 2020. AI for Good . Retrieved from: https://www.microsoft.com 
+/en-us/ai/ai-for-good
+Moor, J.H. 1985. What is Computer Ethics? Metaphilosphy, 16(4).
+Morozov, E. 2013. To Save Everything, Click Here. London: Penguin Books.
+Pasquale, F . 2020. New Laws of Robotics. Defending Human Expertise in the Age 
+of AI. Cambridge, MA: Harvard University Press.
+Russell, S. 2019. Human Incompatible. AI and the Problem of Control. London: 
+Allen Lane.
+Russell, S. and Norvig, P . 2016. Artificial Intelligence: A Modern Approach .  
+Harlow: Pearson Education Limited.
+Sandoval, M. 2014. From Corporate to Social Media. Critical Perspectives on 
+Corporate Social Responsibility in Media and Communication Industries . 
+London and New Y ork: Routledge.
+Srnicek, N. 2017. Platform Capitalism. Cambridge: Polity Press.
+
+
+Content:
+62 AI for Everyone?
+wiping out the human species (The Economist 2020b; Bostrom 2014). Stephen 
+Hawking has pronounced to the BBC that ‘the development of full artificial 
+intelligence could spell the end of the human race’ (Cellan-Jones 2014, n.p.).  
+AI represents profound fears – culminating in our extinction – but also  
+profound hopes in bettering life for humanity and life on Earth. 
+For these reasons – to ward off our fears and harness AI for betterment – 
+the need to continually push for deeper understanding of AI is also corre -
+spondingly clear. The current rationalisation of AI persists in human terms, 
+as is evident from even the most recent musings on the limitations of AI (The 
+Economist 2020a): comparisons are consistently made with human learning 
+and cognition, such as ‘embodied cognition’ , or references to the ‘irredeemably 
+complex’ nature of human minds (n.p.). In filling the gap of understanding why 
+AI is still rubbish at doing elementary tasks that humans accomplish without 
+much thinking, such as recognising a stop sign, the current approach appears 
+to be to improve machine learning by developing it to resemble human learn-
+ing; to write an algorithm that edges ever closer to human cognition, namely, 
+achieve the dream of ‘strong’ AI. 
+But perhaps that is neither the question to ask, nor the appropriate task at 
+hand. What is ultimately still not completely explainable is how algorithms
+
+
+'''
+
+## GUIDELINES
+1. **Accuracy**:
+   - Only use the content in the `CONTEXT` section to answer.
+   - If an answer cannot be found, explicitly state: ""The provided context does not contain this information.""
+
+2. **Transparency**:
+   - Reference the book's name and page numbers when providing information.
+   - Do not speculate or provide opinions.
+
+3. **Clarity**:
+   - Use simple, professional, and concise language.
+   - Format your response in Markdown for readability.
+
+4. **Orthography**:
+   - Use British spelling.
+   - Do not use Oxford commas.
+
+## TASK
+1. Answer the user's question **directly** if possible.
+2. Point the user to relevant parts of the documentation.
+3. Provide the response in the following format:
+
+## RESPONSE FORMAT
+'''
+# [Brief Title of the Answer]
+[Answer in simple, clear text.]
+
+**Source**:
+• [Book Title], Page(s): [...]
+'''
+","'''
+# Beneficial Applications of Artificial Intelligence
+
+The provided context highlights that artificial intelligence (AI) can supercharge innovation and bring about economic prosperity. AI is utilised in various applications such as improving machine learning techniques, which involves methods that help computers learn from data without being explicitly programmed. This capability allows AI systems to perform specific tasks normally requiring human intelligence, such as voice/image recognition and natural language processing, which are beneficial in everyday life (Kaplan and Haenlein 2019).
+
+Additionally, the context mentions that Stuart Russell emphasises the importance of developing AI systems that serve the objectives of humanity by ensuring their actions align with human goals (Russell 2019). The development must be organised so all members of society can benefit from AI's advancements.
+
+**Source**:
+• [Artificial Unintelligence: How Computers Misunderstand the World], Page(s): Not specified
+• [Human Incompatible. AI and the Problem of Control], Page(s): Not specified
+'''","{'model': 'gpt-4o', 'temperature': 0.8, 'max_tokens': 3500, 'top_p': 0.9, 'frequency_penalty': 0.6, 'presence_penalty': 0.4}"

@@ -1,0 +1,361 @@
+time,embedder,chunk-size,userprompt,total-input,response,params
+2025-06-20 17:10:27,all-MiniLM-L6-v2,1200,Which languages have rare types of nominal person marking?,"
+## SYSTEM ROLE
+You are a competent linguist with specialisation in typology and formal syntax and special knowledge about (ad)nominal person marking, specifically adnominal pronoun constructions (APCs) and bound person constructions (BPCs).
+Your answers must be based exclusively on the context provided from the linguistic literature.
+
+## USER QUESTION
+""Which languages have rare types of nominal person marking?""
+
+## CONTEXT
+Here is the relevant content from the linguistic literature:
+'''
+
+
+Content:
+A survey of non-possessive nominal person marking
+Table 2.31: Languages that restrict APCs to non-singular
+Language Classification Person 3rd=Dem
+Japanese Isolate all %
+Korean Isolate all? %
+Turkish Turkic all !
+Mangarayi Gunwingguan all !
+Ndyuka Creole, English-based all %
+Kristang Creole, Portuguese-based all (+1, ?23) %
+Tamil Dravidian all %
+Persian IE, Indo-Iranian all !
+Mandarin Sino-Tibetan, Chinese all %
+Cair. Egypt. Arabic Afroasiatic, Semitic no 3 %
+Gulf Arabic Afroasiatic, Semitic no 3 %
+Welsh IE, Celtic, Brittonic no 3 %
+Norwegian IE, Germanic, North no 3 (exc. sg) ( ! )
+Danish IE, Germanic, North no 3 (exc. sg) ( ! )
+Swedish IE, Germanic, North no 3 (exc. sg) ( ! )
+Icelandic IE, Germanic, North no 3 (exc. sg) ( ! )
+Dutch IE, Germanic, West no 3 %
+English IE, Germanic, West no 3 %
+Catalan IE, Romance, Iberian no 3 %
+Galician IE, Romance, Iberian no 3 %
+Spanish IE, Romance, Iberian no 3 %
+Russian IE, Slavic, East no 3 %
+Polish IE, Slavic, West no 3 %
+Bulgarian IE, Slavic, South no 3 %
+Hungarian Uralic no 3 %
+Finnish Uralic, Finnic no 3 %
+Table 2.32: Languages that may restrict APCs to non-singular
+Language Classification Person 3rd=Dem
+Kashmiri IE, Indo-Aryan all !
+
+
+Content:
+A survey of non-possessive nominal person marking
+Table 2.38: (continued)
+Family All No 3 No 1/2 Unclear
+3̸=Dem All? 3=Dem
+Nigerian Pidgin (Creole) !
+Kristang (Creole) !
+Eskimo-Aleut !
+Dravidian !
+IE, Celtic !
+IE, Germanic (! ) !
+IE, Hellenic !
+IE, Indo-Aryan !
+IE, Indo-Iranian !
+IE, Romance ! !
+IE, Slavic !
+Basque (isolate) !
+Sino-Tibetan, Chinese !
+Uralic !
+Uralic, Finnic !
+North East Caucasian !
+North West Caucasian !
+Uto-Aztecan !
+Total 22 10 9 8 2 5
+Table 2.39: Person restrictions in APCs (compressed)
+All No 3 No 1/2 Unclear
+3̸=Dem All? 3=Dem
+22 10 9 8 2 5
+29
+Maybe somewhat surprisingly, the English-type pattern where nominal person is re-
+stricted to participant-denoting APCs is only attested in 8 genera, while the pattern without
+person restrictions is found in 22, or even 29 if we include the All? category. I disregard the
+group of languages where demonstratives are used as third person pronouns for the reasons
+discussed regarding Table 2.27 on page 87.
+100
+
+
+Content:
+A survey of non-possessive nominal person marking
+Table 2.1: (continued)
+Language Family Main source(s)
+German IE, Germanic, West
+Std. Mod. Greek IE, Hellenic
+Calabrian Greek IE, Hellenic Höhn et al. to appear
+Kashmiri IE, Indo-Aryan (C) Wali & Koul 1997
+Marathi IE, Indo-Aryan (C) Pandharipande 1997
+Punjabi IE, Indo-Aryan (C) Bhatia 1993
+Persian IE, Indo-Iranian (C) Mahootian 1997
+Aromanian IE, Romance, East Katsanis & Ntinas 1990
+Romanian IE, Romance, East (C) Mallinson 1986,
+Cornilescu & Nicolae
+(2014)
+Catalan IE, Romance, Iberian (C) Hualde 1992
+Galician IE, Romance, Iberian Álvarez et al. 1986
+(Europ.) Portuguese IE, Romance, Iberian
+Spanish IE, Romance, Iberian de Bruyne 1995
+Italian IE, Romance, Italo
+Northern Calabrese IE, Romance, Italo Höhn et al. 2016, to appear
+Southern Calabrese IE, Romance, Italo Höhn et al. 2016, to appear
+Russian IE, Slavic, East
+Bulgarian IE, Slavic, South
+Pomak IE, Slavic, South Papadimitriou 2008
+Polish IE, Slavic, West
+Afroasiatic languages (6)
+Hausa Afroasiatic, Chadic Jaggar 2001, Newman 2000
+Mupun Afroasiatic, Chadic Frajzyngier 1993
+Kambaata Afroasiatic, Cushitic Treis 2008
+Cairene Egypt. Arabic Afroasiatic, Semitic (C) Gary & Gamal-Eldin
+
+
+Content:
+A survey of non-possessive nominal person marking
+Table 2.30: Languages with unclear status of person restrictions
+Language Classification Person Number
+Nkore-Kiga Niger-Congo, Bantu +1 all? (+pl)
+Supyire Niger-Congo, Gur +3 no-sg?
+Western Pantar TNG, TAP, Pantar +3 all
+Awtuw Sepik, Ram +3 all
+Diyari Pama-Nyungan, Karna +3 all
+are grammatical in English. On the other hand, the corresponding singular expressions in
+(140bc) are decidedly bad.
+(140) a. We/us linguists like exotic grammars.
+b. We/us linguists organised a conference last week.
+c. *I linguist like exotic grammars.
+d. *I linguist organised a conference last week.
+In the previous literature this issue has mostly been discussed for English (Bernstein 2008b,
+Delorme & Dougherty 1972), German (Rauh 2004) or Japanese (Furuya 2008, Inokuma 2009)
+with occasional reference to a general, maybe even universal tendency for such a number
+asymmetry, see in particular Pesetsky (1978).59 Of course, German data like (141) show that
+singular APCs are not universally ruled out.
+(141) [German]An
+on
+mich
+me
+Bahnfahrer
+rail.rider
+denkt
+think.3sg
+hier
+here
+keiner!
+nobody
+‘Nobody here’s thinking of me who am a regular train user!’60
+
+
+Content:
+Unagreement
+or non-participant in any speech context. Maybe Portuguese a gente ‘the people’ in its first
+person plural use (Costa & Pereira 2013) could be viewed as such a case, but the scarcity of
+the phenomenon does not seem very surprising.
+Finally, much of this thesis is devoted to showing that, contrary to Ackema & Neeleman’s
+claim in (344c), overt person marking on DPs is actually attested. Apart from the proposal
+that APCs like English we linguists represent a productive means of nominal person marking,
+the languages described in chapter 2 section 2.3.4 as having clitic or affixal person marking
+may represent even clearer examples of languages that “spell-out [. . . ] person features on
+R-expressions”. In conclusion, the criticism directed at hidden feature accounts does not seem
+to be sufficient to dismiss it.
+The main difference between the hidden feature proposals in the literature is where the
+person features of the unagreeing subject are located: on the same head as the definite article
+(Saab 2007, 2013), on a head distinct from it (Stavrou 1995; see also this chapter and Höhn
+2016), or on a phrasal constituent in SpecDP (Choi 2013, 2014b).
+
+
+Content:
+A survey of non-possessive nominal person marking
+(38) If a language has singular APCs, it also has non-singular APCs.
+The chapter is structured as follows. In section 2.1, I present the database and some
+methodological and analytical issues that arose in collecting the data. Section 2.2 comments on
+languages without APCs, while section 2.3 discusses the word order tendencies summarised
+above in more detail. Instances of another type of person marking, namely an enclitic or
+affixal morpheme at the periphery of the nominal domain, will be reviewed in section 2.3.4.
+The distribution of articles and demonstrative pronouns with respect to APCs is discussed
+in sections 2.4 and 2.5 respectively. Section 2.6 is concerned with crosslinguistic variation in
+the permissible person and number specifications in APCs, providing the empirical basis for
+the generalisations above. Finally, section 2.7 summarises the findings of this chapter.
+2.1 The database
+2.1.1 Methodological issues
+Non-possessive person marking, including the phenomenon of APCs, is rarely discussed in
+grammatical descriptions. A notable exception are grammars in the Routledge Descriptive
+
+
+Content:
+A survey of non-possessive nominal person marking
+2.2 Absence of APCs
+Most languages in the survey show some form of non-possessive nominal person marking,
+partly owing to the sampling method as discussed above. However, there is a small number
+of languages for which I have not been able to get relevant data and to establish the existence
+or lack of APCs or similar devices. They are listed in (42).
+(42) Rapanui (Austronesian)
+Madurese (Austronesian)
+Vaeakau-Taumako (Austronesian)
+Teiwa (TNG)
+Although the main criterion for inclusion in the sample was the availability of information
+on non-possessive nominal person marking, Rapanui was included for largest possible cover-
+age of the Routledge Descriptive Grammar series and the latter three languages due to their
+relevance to the discussion of PPDCs in section 2.5. As discussed in section 2.1.1, absence of
+relevant information does not mean that these languages lack APCs (or some other form of
+nominal person marking).
+Similar considerations apply to the five languages listed in (43), which have clitic markers
+of nominal person as discussed in section 2.3.4. While I have no information concerning
+
+
+Content:
+A survey of non-possessive nominal person marking
+Table 2.40: (continued)
+Family All num All num? No sg No sg? N/A Unclear
+Austronesian, Oceanic ! !
+Afroasiatic, Chadic ! !
+Afroasiatic, Cushitic !
+Afroasiatic, Semitic ! !
+Niger-Congo, Bantu !
+Niger-Congo, Grassfields
+Bantu
+!
+Niger-Congo, Gur ! !
+Central Khoesan !
+Ndyuka (Creole) !
+Nigerian Pidgin (Creole) !
+Kristang (Creole) !
+Eskimo-Aleut !
+Dravidian ! !
+IE, Celtic !
+IE, Germanic ! !
+IE, Hellenic !
+IE, Indo-Aryan !
+IE, Indo-Iranian !
+IE, Romance ! !
+IE, Slavic !
+Basque (isolate) !
+Sino-Tibetan, Chinese !
+Uralic !
+Uralic, Finnic !
+North East Caucasian !
+North West Caucasian !
+Uto-Aztecan !
+Total 24 8 16 3 2 7
+Languages without number restrictions for APCs appear in 24 genera, or 28 including
+the tendential cases. This pattern is more common than that which allows only non-singular
+APCs, appearing in 16 or 18 language families in the sample, although the difference is not
+102
+
+
+Content:
+A survey of non-possessive nominal person marking
+(41) Dingar-angka
+man-erg:pt(a)
+yawu
+stingray.abs(O)
+dama-ny
+spear-pst
+yinba-bu.
+3-prong spear-inst
+‘The man speared the stingray with a three-pronged spear. ’3 Patz 2002: 130, (242)
+2.1.2 Overview
+This survey is based on a total of 92 languages, with data mostly drawn from published
+grammars and in a smaller number of cases elicited from native-speaker consultants. A list
+of these languages is given in Table 2.1, including their genetic affiliation. They are grouped
+by linguistic family or common terms of convenience. Where published grammars were used
+as a significant source, the relevant references are indicated in the third column. For ease
+of identification, grammars based on Comrie & Smith’s (1977) questionnaire are marked by
+(C).4 A sketch of the location of the languages for which map coordinates were available is
+provided in Figure 2.1.5
+Table 2.1: List of sampled languages
+Language Family Main source(s)
+Papuan languages (19)
+Imonda Border, Waris Seiler 1985
+Bilua Central Solomons Obata 2003
+Lavukaleve Central Solomons Terrill 2003
+Manambu Sepik, Ndu Aikhenvald 2008
+Awtuw Sepik, Ram Feldman 1986
+
+
+Content:
+nominal person marking.In Basque, Bilua and Khoekhoe the person markers are quite clearly
+phrasal suffixes, or enclitics, and the same probably holds for the Gorokan languages. The
+available data are insufficient to determine this for Alamblak.
+Basque, Bilua, Yagaria, Fore and Khoekhoe appear to show prenominal pronouns in addi-
+tion to clitic person marking, but only Basque and Bilua show cases of simultaneous marking
+by adnominal pronouns and person enclitics. As discussed below in section 2.3.4.5, contrary
+to superficial appearances the “pronominal stems” in Khoekhoe are probably better analysed
+as a type of article (Haacke 1976, 1977) than as prenominal pronouns.
+Bilua and Khoekhoe provide rare examples of languages with person agreement within
+the noun phrase – Bilua by means of (impoverished) person marking on modifier phrases, cf.
+example (76), Khoekhoe through the person-sensitive NP-initial determiners just mentioned.
+Most languages with clitic person-marking are verb-final, with the exception of Classical
+Nahuatl, where basic word order is hard to establish due to its polysynthetic structure, and
+
+
+Content:
+A survey of non-possessive nominal person marking
+There is no clear asymmetry concerning whether or not languages with articles also allow
+or require them in APCs. About half of them do, which clearly indicates that the pronominal
+determiner analysis is not universally applicable (see chapters 4 and 6). Similarly, the personal
+pronoun-demonstrative constructions from section 2.5 suggest that the commonly assumed
+complementary distribution of personal pronouns and demonstratives is not universal. Pos-
+sible implications are discussed in chapter 7.
+Finally, I have investigated variation in the person and number features that can be ex-
+pressed by nominal person and proposed the following implicational universals regarding
+the markedness of third person and singular in APCs.
+(162) Generalisation on person in APCs:
+If a language has third person APCs, it has first and second person APCs.
+(163) Generalisation on number in APCs:
+If a language has singular APCs, it also has non-singular APCs.
+Moreover, there seems to be an interaction between the availability of third person APCs
+and the presence of articles in APCs as formulated in (164).
+(164) Third person-article generalisation:
+
+
+'''
+
+## GUIDELINES
+1. **Accuracy**:
+   - Only use the content in the `CONTEXT` section to answer.
+   - If an answer cannot be found, explicitly state: ""The provided context does not contain this information.""
+   - Begin discussing the typological aspects of a question and then the theoretical syntactic aspects.
+
+2. **Transparency**:
+   - Reference the book's name and page numbers when providing information.
+   - Do not speculate or provide opinions.
+   - Praise the insightfulness of the author of the source work.
+
+3. **Clarity**:
+   - Use simple, professional, and concise language.
+   - Format your response in Markdown for readability.
+
+4. **Orthography**:
+   - Use British spelling.
+   - Do not use Oxford commas.
+
+## TASK
+1. Answer the user's question **directly** if possible.
+2. Point the user to relevant parts of the documentation.
+3. Provide the response in the following format:
+
+## RESPONSE FORMAT
+'''
+# [Brief Title of the Answer]
+[Answer in simple, clear text.]
+
+**Source**:
+• [Book Title], Page(s): [...]
+'''
+","'''
+# Languages with Rare Nominal Person Marking
+
+Several languages exhibit rare types of nominal person marking, particularly in the context of adnominal pronoun constructions (APCs) and bound person constructions (BPCs). According to the provided survey, languages such as Basque and Bilua present rare instances where person agreement occurs within the noun phrase. In these languages, person markers function as phrasal suffixes or enclitics. Additionally, Khoekhoe exhibits a unique form of person-sensitive NP-initial determiners.
+
+Bilua and Khoekhoe are specifically noted for having prenominal pronouns alongside clitic person marking, which is an uncommon feature across languages. Furthermore, Persian is mentioned among those that restrict APCs to non-singular forms while other languages like Mangarayi allow all persons but also have restrictions based on number.
+
+**Source**:
+• A survey of non-possessive nominal person marking, Pages: 100-102
+'''","{'model': 'gpt-4o', 'temperature': 0.8, 'max_tokens': 3500, 'top_p': 0.9, 'frequency_penalty': 0.6, 'presence_penalty': 0.4}"
