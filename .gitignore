@@ -194,3 +194,5 @@ cython_debug/
 .cursorindexingignore
 
 chroma_db_*
+
+ai-for-everyone.pdf
